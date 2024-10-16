@@ -74,6 +74,6 @@ The system architecture involves multiple sensors connected to an Arduino microc
 ![WhatsApp Image 2024-10-15 at 02 27 02_bcd35479](https://github.com/user-attachments/assets/7303855a-4f65-4b98-bf6a-092b9fc2055d)
 
 ## Working Video of Smart Cradle System
-
+https://drive.google.com/file/d/1RrgMkj9XcCkGUo1vWwtZWP14mFc75oE6/view?usp=drive_link
 
 
